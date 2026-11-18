@@ -16,4 +16,3 @@ REM Open Student Portal in Chrome full screen
 start "" chrome.exe --kiosk "http://127.0.0.1:5000/student.html"
 
 exit
-
